@@ -1,3 +1,9 @@
+### Keith numbers aka repfigit numbers
+
+repetitive Fibonacci-like digit numbers
+
+<br>
+
 <table>
     <tr>
         <td align="right">
@@ -45,12 +51,7 @@ mathworld_wolfram
     </tr>
 </table>
 
-
-### Keith numbers aka repfigit numbers
-
-
-repetitive Fibonacci-like digit numbers
-
+<br>
 
 <table>
 <tr><th>Index</th><th>No. Digits</th><th>Keith Numbers</th></tr><tr></tr>
