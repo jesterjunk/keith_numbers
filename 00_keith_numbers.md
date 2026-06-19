@@ -1,4 +1,4 @@
-<b>https://jesterjunk.github.io/keith_numbers/</b>
+<b><a href="https://jesterjunk.github.io/keith_numbers/">https://jesterjunk.github.io/keith_numbers/</a></b>
 
 ### Keith numbers aka repfigit numbers
 
