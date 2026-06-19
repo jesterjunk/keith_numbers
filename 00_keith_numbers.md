@@ -2,6 +2,8 @@
 
 repetitive Fibonacci-like digit numbers
 
+Keith numbers are integers that appear in a Fibonacci-like sequence started with their own decimal digits.
+
 <br>
 
 <table>
